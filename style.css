@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .flow{
+    display: block;
+    padding: 7px;
+    margin:7px;
+  }
+  .btn{
+    display: inline-flex;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  h1{
+    text-align: center;
+    
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  legend{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  fieldset{
+    margin-bottom: 10px;
+  }
