@@ -1,1 +1,1 @@
-A basic html form that regesters new students.
+A basic html form that registers new students.
